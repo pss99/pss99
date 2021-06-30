@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pss99
+- 👋 Hi, I’m Pratik Suryavanshi (@pss99)
 - 👀 I’m interested in designing & developing a web application
 - 🌱 I’m currently majoring in master's degree i.e in Computer Application
 - 📫 How to reach me - pratikssuryavanshi99@gmail.com / pss9@somaiya.edu
