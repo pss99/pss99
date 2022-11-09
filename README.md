@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Pratik Suryavanshi (@pss99)
-- 👀 I’m interested in designing & developing a web application
-- 🌱 I’m currently majoring in master's degree i.e in Computer Application
+- 👀 I’m interested in designing & developing an application
+- 📖 I’ve completed my masters degree from K. J. Somaiya Institute of Management in 2022 with degree in MCA.
+- 🌱 I'm currently a Junior Software Engineer at RippleHire.
 - 📫 How to reach me - pratikssuryavanshi99@gmail.com / pss9@somaiya.edu
 
 <!---
